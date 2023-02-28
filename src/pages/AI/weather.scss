@@ -1,0 +1,57 @@
+.container-weather{
+    width: 100vw;
+    height: 100vh;
+    opacity: 0.8;
+    .content-weather{
+        vertical-align: middle;
+        height: 100%;
+        width: 80%;
+        margin: 0 auto;
+        text-align: center;
+        h2{
+            margin: 80px auto 10px auto;
+        }
+        .chat-box{
+            margin-top: 30px;
+        }
+        .btn-white{
+            margin-top: -10px;
+            padding: 10px;
+            width: 100px;
+            color: white;
+            border-radius: 10px;
+            background: gray;
+        }
+        .input-age, .input-gender{
+            display: block;
+            width: 200px;
+            margin: 5px auto 5px auto;
+            padding: 10px;
+            border: 1px solid black;
+            border-radius: 10px;
+            text-align: center;
+        }
+        div{
+            margin: 10px auto 10px auto;
+        }
+    }
+    .snowflake{
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        background: white;
+        position: absolute;
+        top: -8px;
+        animation: fall;
+        animation-timing-function: linear;
+        overflow: hidden;
+    }
+}
+
+@keyframes fall {
+    from{}
+    to{
+        transform: translateY(100vh);
+        opacity: 0;
+    }
+}

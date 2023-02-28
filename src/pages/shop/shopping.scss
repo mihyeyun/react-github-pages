@@ -1,0 +1,121 @@
+
+.wrap{
+width: 100vw;
+height: 100vh;
+min-width: 800px;
+margin: 0 auto;
+background: #ffebee;
+position: relative;
+
+}
+
+
+.content {
+  text-align: center;
+  padding-top: 20px;
+ 
+}
+.Pictures {
+  margin-top: 20px;
+
+}
+.item {
+  display: inline-block;
+
+ 
+}
+.img {
+  margin-right: 10px;
+ 
+}
+.Board {
+  display: inline-block;
+  margin: 40px auto 0px auto;
+  width: 600px;
+  max-width: 900px;
+  height: 450px;
+  background-image: url('../../image/cart.png');
+  background-size: 600px 400px;
+  background-repeat: no-repeat;
+
+
+  img {
+    align-items: center;
+    margin-top: 160px;
+    width: 60px;
+  }
+}
+.buyBtn {
+  margin-top: 30px;
+  margin-left: 450px;
+  padding: 10px;
+  width: 100px;
+  background-color: #a3a1a1;
+  color: #e3dede;
+  border-radius: 10px;
+}
+button:hover {
+  color: white;
+  transform: scale(1.2);
+}
+.receipt {
+  position: fixed;
+  margin: auto;
+  padding: 30px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+}
+.white-bg {
+  margin: 0 auto;
+  background: white;
+  position: relative;
+  width: 80%;
+  padding: 30px;
+  border-radius: 5px;
+}
+.bg {
+  width: 100%;
+  height: 100%;
+  background: yellowgreen;
+  position: fixed;
+  margin: 0 auto;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+.cou-text {
+  margin-top: 20px;
+}
+.btn-pink {
+  margin-top: 10px;
+  padding: 10px;
+  width: 100px;
+  color: #e3dede;
+  border-radius: 10px;
+  background: pink;
+}
+.btn-gray {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  padding: 10px;
+  width: 100px;
+  color: #a3a1a1;
+  border-radius: 10px;
+  background: gray;
+}
+.btn-yellow {
+  display: block;
+  margin: 10px auto 0 auto;
+  padding: 10px;
+  width: 120px;
+  color: #e3dede;
+  border-radius: 10px;
+  background: yellow;
+}
+btn:hover {
+  color: white;
+  transform: scale(1.2);
+}
