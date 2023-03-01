@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-github-pages/static/css/main.95836785.css",
-    "main.js": "/react-github-pages/static/js/main.4350d140.js",
+    "main.css": "/react-github-pages/static/css/main.118e77c5.css",
+    "main.js": "/react-github-pages/static/js/main.5b8e88b0.js",
     "static/media/shop.mp4": "/react-github-pages/static/media/shop.fd983270e3b2c4d247d9.mp4",
     "static/media/pic.png": "/react-github-pages/static/media/pic.2f78cb6622902f686ac1.png",
     "static/media/figma.png": "/react-github-pages/static/media/figma.1f06839fe188b984a91b.png",
@@ -10,16 +10,18 @@
     "static/media/cart.png": "/react-github-pages/static/media/cart.41f0e4cf6c4c8b9322b9.png",
     "static/media/js.png": "/react-github-pages/static/media/js.0ff691a84066eccba816.png",
     "static/media/boot.png": "/react-github-pages/static/media/boot.d5210cdeab1bc94309c4.png",
+    "static/media/next.png": "/react-github-pages/static/media/next.4c9bb5c9bcca66a8ea93.png",
+    "static/media/pre.png": "/react-github-pages/static/media/pre.42bbbab7d8c8ca83e1f2.png",
     "static/media/css.png": "/react-github-pages/static/media/css.4e67641bb68b658d9b2b.png",
     "static/media/mysql.png": "/react-github-pages/static/media/mysql.7d8d571e5629923eaf74.png",
     "static/media/react.png": "/react-github-pages/static/media/react.ac14d2f265d39f14fb97.png",
     "static/media/html.png": "/react-github-pages/static/media/html.33745eadd572612bdf11.png",
     "index.html": "/react-github-pages/index.html",
-    "main.95836785.css.map": "/react-github-pages/static/css/main.95836785.css.map",
-    "main.4350d140.js.map": "/react-github-pages/static/js/main.4350d140.js.map"
+    "main.118e77c5.css.map": "/react-github-pages/static/css/main.118e77c5.css.map",
+    "main.5b8e88b0.js.map": "/react-github-pages/static/js/main.5b8e88b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.95836785.css",
-    "static/js/main.4350d140.js"
+    "static/css/main.118e77c5.css",
+    "static/js/main.5b8e88b0.js"
   ]
 }
