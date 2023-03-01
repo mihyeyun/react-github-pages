@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-github-pages/static/css/main.118e77c5.css",
-    "main.js": "/react-github-pages/static/js/main.ae808997.js",
+    "main.js": "/react-github-pages/static/js/main.a2a06685.js",
     "static/media/shop.mp4": "/react-github-pages/static/media/shop.fd983270e3b2c4d247d9.mp4",
     "static/media/pic.png": "/react-github-pages/static/media/pic.2f78cb6622902f686ac1.png",
     "static/media/figma.png": "/react-github-pages/static/media/figma.1f06839fe188b984a91b.png",
@@ -18,10 +18,10 @@
     "static/media/html.png": "/react-github-pages/static/media/html.33745eadd572612bdf11.png",
     "index.html": "/react-github-pages/index.html",
     "main.118e77c5.css.map": "/react-github-pages/static/css/main.118e77c5.css.map",
-    "main.ae808997.js.map": "/react-github-pages/static/js/main.ae808997.js.map"
+    "main.a2a06685.js.map": "/react-github-pages/static/js/main.a2a06685.js.map"
   },
   "entrypoints": [
     "static/css/main.118e77c5.css",
-    "static/js/main.ae808997.js"
+    "static/js/main.a2a06685.js"
   ]
 }
